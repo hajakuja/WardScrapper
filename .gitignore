@@ -1,2 +1,5 @@
 venv/
 .vscode/
+book.*
+*.txt
+*.html
