@@ -1,5 +1,5 @@
 venv/
 .vscode/
 book.*
-*.txt
+tst.*
 *.html
